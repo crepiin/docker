@@ -19,8 +19,8 @@ services:
     image: mysql
     container_name: mysqlDB
     environment:
-      MYSQL_ROOT_PASSWORD: 123login
-      MYSQL_DATABASE: testapp
+      MYSQL_ROOT_PASSWORD: docker6969
+      MYSQL_DATABASE: tester
     networks: 
       - worknet
     volumes: 
